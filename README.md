@@ -4,7 +4,7 @@ Perkenalkan nama saya **Rahmanda Nur Sidik**.
 
 Saya lulusan dari FILKOM Universitas Brawijaya dengan program studi Teknik Komputer tahun 2020.
 
-Saat ini saya sedang memperdalam wawasan tentang IT di Dicoding.
+Saya sangat berminat di bidang IT Infrastructure, Networking, DevOps, dan Cloud Services. Tertarik untuk belajar dan menguasai pada bidang-bidang tersebut
 <!--
 **rahmandanur/rahmandanur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
